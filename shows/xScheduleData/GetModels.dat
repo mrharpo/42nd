@@ -1,0 +1,1 @@
+{"models":[{"name":"House Left","type":"Poly Line","startchannel":"2041","channels":"600","stringtype":"RGB Nodes"},{"name":"House Right","type":"Poly Line","startchannel":"1","channels":"600","stringtype":"RGB Nodes"},{"name":"Tree","type":"Tree","startchannel":"601","channels":"1440","stringtype":"RGB Nodes"}]}
