@@ -30,16 +30,16 @@
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF4D00,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=58,E_SLIDER_Twinkle_Steps=218,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=222,E_SLIDER_Spirals_Thickness=57,E_TEXTCTRL_Spirals_Movement=0.8,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Curtain_Repeat=1,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=8.0,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=94,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=29,E_SLIDER_Marquee_Speed=2,E_SLIDER_Marquee_Stagger=8,E_SLIDER_Marquee_Start=24,E_SLIDER_Marquee_Thickness=70,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_ColorWash_CircularPalette=1,E_CHECKBOX_ColorWash_HFade=1,E_CHECKBOX_ColorWash_ReverseFades=1,E_CHECKBOX_ColorWash_VFade=1,E_TEXTCTRL_ColorWash_Cycles=9.7,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Mirror_Wave=1,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Left to Right,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=223,E_SLIDER_Thickness_Percentage=78,E_SLIDER_Wave_Height=80,E_SLIDER_Wave_YOffset=0,E_TEXTCTRL_Wave_Speed=1.58,T_CHECKBOX_Canvas=1,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=23,E_SLIDER_Twinkle_Steps=207,T_CHECKBOX_Canvas=1,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Mirror_Wave=1,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Left to Right,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=1868,E_SLIDER_Thickness_Percentage=22,E_SLIDER_Wave_Height=82,E_SLIDER_Wave_YOffset=0,E_TEXTCTRL_Wave_Speed=1.58,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=1,E_SLIDER_Meteors_Length=72,E_SLIDER_Meteors_Speed=6,E_SLIDER_Meteors_Swirl_Intensity=0,E_SLIDER_Meteors_WamupFrames=22,T_CHECKBOX_Canvas=1,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=2</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=58,E_SLIDER_Twinkle_Steps=218</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=222,E_SLIDER_Spirals_Thickness=57,E_TEXTCTRL_Spirals_Movement=0.8</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=1,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=0,E_TEXTCTRL_Curtain_Speed=8.0</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=87,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=11,E_SLIDER_Marquee_Speed=4,E_SLIDER_Marquee_Stagger=8,E_SLIDER_Marquee_Start=24,E_SLIDER_Marquee_Thickness=71</Effect>
+    <Effect>E_CHECKBOX_ColorWash_CircularPalette=1,E_CHECKBOX_ColorWash_HFade=1,E_CHECKBOX_ColorWash_ReverseFades=1,E_CHECKBOX_ColorWash_VFade=1,E_TEXTCTRL_ColorWash_Cycles=9.7</Effect>
+    <Effect>E_CHECKBOX_Mirror_Wave=1,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Left to Right,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=223,E_SLIDER_Thickness_Percentage=78,E_SLIDER_Wave_Height=80,E_SLIDER_Wave_YOffset=0,E_TEXTCTRL_Wave_Speed=1.58,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=23,E_SLIDER_Twinkle_Steps=207,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_CHECKBOX_Mirror_Wave=1,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Left to Right,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=1868,E_SLIDER_Thickness_Percentage=22,E_SLIDER_Wave_Height=82,E_SLIDER_Wave_YOffset=0,E_TEXTCTRL_Wave_Speed=1.58</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=1,E_SLIDER_Meteors_Length=72,E_SLIDER_Meteors_Speed=6,E_SLIDER_Meteors_Swirl_Intensity=0,E_SLIDER_Meteors_WamupFrames=22,T_CHECKBOX_Canvas=1</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="1" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -61,12 +61,12 @@
         <Effect ref="1" name="Twinkle" id="1" startTime="30000" endTime="60000" palette="1"/>
         <Effect ref="2" name="Spirals" id="2" startTime="60000" endTime="90000" palette="2"/>
         <Effect ref="3" name="Curtain" id="3" startTime="90000" endTime="120000" palette="3"/>
-        <Effect ref="4" name="Marquee" selected="1" id="4" startTime="120000" endTime="150000" palette="4"/>
+        <Effect ref="4" name="Marquee" id="4" startTime="120000" endTime="150000" palette="4"/>
         <Effect ref="5" name="Color Wash" id="5" startTime="150000" endTime="180000" palette="5"/>
         <Effect ref="6" name="Wave" id="6" startTime="180000" endTime="210000" palette="0"/>
         <Effect ref="7" name="Twinkle" id="7" startTime="210000" endTime="240000" palette="6"/>
         <Effect ref="8" name="Wave" id="8" startTime="240000" endTime="270000" palette="7"/>
-        <Effect ref="9" name="Meteors" id="9" startTime="270000" endTime="300000" palette="8"/>
+        <Effect ref="9" name="Meteors" selected="1" id="9" startTime="270000" endTime="300000" palette="8"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree">
