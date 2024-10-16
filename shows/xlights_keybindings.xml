@@ -119,4 +119,31 @@
   <keybinding keycode="F" alt="FALSE" control="FALSE" shift="TRUE" type="EFFECT" effect="Fan" xLightsVersion="2024.16.2"></keybinding>
   <keybinding keycode="U" alt="FALSE" control="FALSE" shift="TRUE" type="APPLYSETTING" xLightsVersion="2024.16.2">T_TEXTCTRL_Fadein=1.00</keybinding>
   <keybinding keycode="D" alt="FALSE" control="FALSE" shift="TRUE" type="APPLYSETTING" xLightsVersion="2024.16.2">T_TEXTCTRL_Fadeout=1.00</keybinding>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY_PRIOR_TAG"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY_NEXT_TAG"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_TOGGLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_DISABLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_ENABLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT_TOGGLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT_DISABLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT_ENABLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_EFFECT_TOGGLE"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECTS_TO_TIMING"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_1"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_2"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_3"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_4"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_5"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_6"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_7"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_8"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_9"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_NO_TIMING"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="INCREASE_SPEED"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="DECREASE_SPEED"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_1"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_2"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_3"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_4"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_5"/>
 </keybindings>
