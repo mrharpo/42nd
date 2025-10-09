@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17.1</version>
+    <version>2025.10.2</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -89,7 +89,7 @@
       <EffectLayer>
         <Effect ref="0" name="Butterfly" startTime="60000" endTime="90000" palette="7"/>
         <Effect ref="10" name="Plasma" id="1" startTime="240000" endTime="270000" palette="8"/>
-        <Effect ref="11" name="Meteors" selected="1" id="2" startTime="270000" endTime="300000" palette="7"/>
+        <Effect ref="11" name="Meteors" id="2" startTime="270000" endTime="300000" palette="7"/>
       </EffectLayer>
     </Element>
   </ElementEffects>
